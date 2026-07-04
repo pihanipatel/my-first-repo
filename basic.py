@@ -48,6 +48,6 @@
 # print(f"all three values {age},{x},{y}")
 # print(id(x))
 
-x=7
-y=7
-print(id(x),id(y))
+#x=7
+#y=7
+#print(id(x),id(y))
